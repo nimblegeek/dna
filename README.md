@@ -1,7 +1,7 @@
 # DNA Sequencing
 Write a DNA.java program that determines whether there is a protein in a strand of DNA.
 
-![img.png](img.png) 
+![img.png](dna.png) 
 
 
 ## Context
