@@ -16,7 +16,7 @@ So for example:
 - ```ATGCGATAGA``` is not a protein because the sequence length is not divisible by 3, so the third condition is not satisfied.
 
 ## To Do
-1. Create a skeleton for the program with a class and main method.
+1. Create a skeleton for the program with a class- and main method.
 2. Add comment for the program
 3. Store ```"ATGCGATACGCTTGA"``` ```"ATGCGATACGTGA"``` ```"ATTAATATGTACTGA"``` in three different strings: dna1, dna2, dna3
 4. Warming up by finding length on the dna string.
